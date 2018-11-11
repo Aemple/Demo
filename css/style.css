@@ -52,6 +52,10 @@
     cursor: pointer;
 }
 
+.search-bar {
+    background: #dd182b;
+}
+
 .main .cat {
     background: #6e6568;
     color: #fff;
